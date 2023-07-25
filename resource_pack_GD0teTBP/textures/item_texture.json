@@ -1,0 +1,21 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "ciomg:nightmare_axe": {
+            "textures": "textures/items/nightware_axe"
+        },
+        "ciomg:nightmare_fragment": {
+            "textures": "textures/items/nightmare_fragment"
+        },
+        "ciomg:nightmare_pickaxe": {
+            "textures": "textures/items/nightmare_pickaxe"
+        },
+        "ciomg:nightmare_stone": {
+            "textures": "textures/items/nightmare_stone"
+        },
+        "ciomg:nightmare_sword": {
+            "textures": "textures/items/nightmare_sword"
+        }
+    },
+    "texture_name": "atlas.items"
+}

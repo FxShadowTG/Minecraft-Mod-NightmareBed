@@ -1,0 +1,16 @@
+{
+    "Arena.Component.Namespace": "ciomg",
+    "FirstTabSetting": 1,
+    "ShortItemSettings": [
+        "resource_pack_GD0teTBP\\ui",
+        "behavior_pack_4GUwYQJG\\Presets",
+        "behavior_pack_4GUwYQJG\\Parts",
+        "behavior_pack_4GUwYQJG\\BoxData",
+        "resource_pack_GD0teTBP\\effects",
+        "resource_pack_GD0teTBP\\models",
+        "resource_pack_GD0teTBP\\textures"
+    ],
+    "Uluru.autoLayerDict": {
+
+    }
+}

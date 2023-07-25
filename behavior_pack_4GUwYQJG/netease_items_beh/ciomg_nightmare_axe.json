@@ -1,0 +1,23 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 2500,
+            "netease:customtips": {
+                "value": " §d传说中来自恶魔梦境锻造的斧头"
+            },
+            "netease:weapon": {
+                "attack_damage": 11,
+                "enchantment": 15,
+                "level": 2,
+                "speed": 15,
+                "type": "hatchet"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "ciomg:nightmare_axe",
+            "register_to_create_menu": true
+        }
+    }
+}

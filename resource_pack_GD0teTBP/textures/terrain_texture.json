@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "ciomg:nightmare_block": {
+            "textures": "textures/blocks/nightmare_block"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

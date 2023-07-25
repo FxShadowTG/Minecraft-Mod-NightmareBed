@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ciomg:nightmare_stone"
+        },
+        "key": {
+            "E": {
+                "data": 0,
+                "item": "minecraft:emerald"
+            },
+            "I": {
+                "data": 0,
+                "item": "ciomg:nightmare_fragment"
+            }
+        },
+        "pattern": [
+            "III",
+            "IEI",
+            "III"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "ciomg:nightmare_stone"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

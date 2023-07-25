@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ciomg:nightmare_block"
+        },
+        "key": {
+            "I": {
+                "data": 0,
+                "item": "ciomg:nightmare_fragment"
+            }
+        },
+        "pattern": [
+            "III",
+            "III",
+            "III"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "ciomg:nightmare_block"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

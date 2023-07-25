@@ -1,0 +1,446 @@
+{
+    "pools": [
+        {
+            "entries": [
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "ciomg:nightmare_sword",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "ciomg:nightmare_axe",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "ciomg:nightmare_pickaxe",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "ciomg:nightmare_stone",
+                    "type": "item",
+                    "weight": 1
+                }
+            ],
+            "rolls": 1
+        },
+        {
+            "entries": [
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 2,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:ender_eye",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 3,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:ender_pearl",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 32,
+                                "min": 8
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:end_stone",
+                    "type": "item",
+                    "weight": 2
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 32,
+                                "min": 8
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:end_bricks",
+                    "type": "item",
+                    "weight": 2
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 32,
+                                "min": 8
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:stone_slab3",
+                    "type": "item",
+                    "weight": 2
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 32,
+                                "min": 8
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:end_brick_stairs",
+                    "type": "item",
+                    "weight": 2
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 16,
+                                "min": 4
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 10,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:cobblestone_wall",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 8,
+                                "min": 4
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:end_rod",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 2,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:diamond",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:totem_of_undying",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 8,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:experience_bottle",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 3,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:purple_candle",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:dragon_breath",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 4,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:shulker_shell",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:dragon_breath",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:end_crystal",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 32,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:lingering_potion",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 41,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:splash_potion",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 3,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "ciomg:nightmare_fragment",
+                    "type": "item",
+                    "weight": 2
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "ciomg:nightmare_stone",
+                    "type": "item",
+                    "weight": 1
+                }
+            ],
+            "rolls": 3
+        }
+    ]
+}

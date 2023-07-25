@@ -1,0 +1,42 @@
+{
+  "Source": "空白附加包",
+  "CreateVersion": "2.5.0.248352",
+  "EditVersion": "2.5.0.275621",
+  "OldEditCount": 0,
+  "NewEditCount": 20,
+  "OldComponents": [],
+  "Account": "",
+  "UserName": "",
+  "UserId": "",
+  "Id": "b33ea7be98144b98abcf02d3422d6996",
+  "EditType": 2,
+  "IsMap": false,
+  "CreateNew": true,
+  "EditName": "噩梦之床",
+  "GameType": 1,
+  "WorldType": 1,
+  "Seed": "",
+  "BlockNums": [
+    0,
+    0
+  ],
+  "BornPoint": [
+    0,
+    0,
+    0
+  ],
+  "SaveBackMapPath": "",
+  "SaveBackAddOnPath": "",
+  "EditAddOnPaths": [],
+  "EditMaterialPaths": [],
+  "EditLogFilePath": "",
+  "ServerName": "",
+  "StudioPort": 12769,
+  "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+  "ShowGuide": false,
+  "AssertCacheDir": "",
+  "ElkUrl": "",
+  "ShowGpuDriverTips": false,
+  "StudioTempPath": "",
+  "EditorResourcePackPath": ""
+}

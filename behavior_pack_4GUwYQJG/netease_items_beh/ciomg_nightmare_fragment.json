@@ -1,0 +1,17 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:foil": false,
+            "minecraft:max_stack_size": 64,
+            "netease:customtips": {
+                "value": " §d传说中来自恶魔梦境锻造魔石的过程中掉落的碎片， 据说可以合成梦魇石"
+            }
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "ciomg:nightmare_fragment",
+            "register_to_create_menu": true
+        }
+    }
+}

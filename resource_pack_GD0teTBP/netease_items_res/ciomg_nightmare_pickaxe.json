@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "ciomg:nightmare_pickaxe"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "ciomg:nightmare_pickaxe",
+            "register_to_create_menu": true
+        }
+    }
+}

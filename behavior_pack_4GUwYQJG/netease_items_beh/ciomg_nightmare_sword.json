@@ -1,0 +1,24 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 2500,
+            "minecraft:max_stack_size": 1,
+            "netease:customtips": {
+                "value": " §d传说中来自恶魔梦境锻造的剑"
+            },
+            "netease:weapon": {
+                "attack_damage": 12,
+                "enchantment": 15,
+                "level": 2,
+                "speed": 10,
+                "type": "sword"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "ciomg:nightmare_sword",
+            "register_to_create_menu": true
+        }
+    }
+}

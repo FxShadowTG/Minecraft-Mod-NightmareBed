@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "ciomg:nightmare_fragment"
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "ciomg:nightmare_fragment",
+            "register_to_create_menu": true
+        }
+    }
+}

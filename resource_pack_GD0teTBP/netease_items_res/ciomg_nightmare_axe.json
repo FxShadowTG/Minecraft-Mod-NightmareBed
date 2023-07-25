@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "ciomg:nightmare_axe"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "ciomg:nightmare_axe",
+            "register_to_create_menu": true
+        }
+    }
+}
