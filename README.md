@@ -24,6 +24,7 @@
 
 当然，这一切肯定也有惩罚，如果你在睡觉的过程主动起床，那你就会遭到梦魇的惩罚。
 
+![输入图片说明](bed1.png)
 ![输入图片说明](https://foruda.gitee.com/images/1690272839419573061/8eccf7ba_11180561.png "bed6.png")
 ![输入图片说明](https://foruda.gitee.com/images/1690272857760504861/ac13c3a0_11180561.png "bed2.png")
 ![输入图片说明](https://foruda.gitee.com/images/1690272864559103766/f0a6a846_11180561.png "bed3.png")
